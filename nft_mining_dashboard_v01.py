@@ -89,7 +89,7 @@ if page == "Dashboard":
     display_columns = ['token_id', 'market', 'equipment', 'boost', 'short_owner', 'minted', 'life_left']
     st.dataframe(
         filtered_nft_details[display_columns],
-        use_container_width=True,
+        use_container_width=False,
         hide_index=True
     )
 
@@ -182,24 +182,24 @@ elif page == "Leaderboard":
     top_rewards['total_rewards'] = top_rewards['total_rewards'].apply(format_rewards)
     top_rewards = top_rewards.reset_index(drop=True).reset_index()
     top_rewards['Rank'] = top_rewards['index'] + 1  # Start numbering at 1
-    st.dataframe(top_rewards[['Rank', 'short_owner', 'total_rewards']], use_container_width=True, hide_index=True)
+    st.dataframe(top_rewards[['Rank', 'short_owner', 'total_rewards']], use_container_width=False, hide_index=True)
 
     # **New Table: Top Ten Owners by Wins**
     st.subheader("Top Ten Owners by Wins")  # Added subheader
     top_wins = rewards_by_owner.nlargest(10, 'total_wins').copy()
     top_wins = top_wins.reset_index(drop=True).reset_index()
     top_wins['Rank'] = top_wins['index'] + 1  # Start numbering at 1
-    st.dataframe(top_wins[['Rank', 'short_owner', 'total_wins']], use_container_width=True, hide_index=True)
+    st.dataframe(top_wins[['Rank', 'short_owner', 'total_wins']], use_container_width=False, hide_index=True)
 
     # Top ten owners by NFTs owned
     st.subheader("Top Ten Owners by NFTs Owned")
     top_nfts_owned = nfts_owned.nlargest(10, 'nfts_owned').copy()
     top_nfts_owned = top_nfts_owned.reset_index(drop=True).reset_index()
     top_nfts_owned['Rank'] = top_nfts_owned['index'] + 1  # Start numbering at 1
-    st.dataframe(top_nfts_owned[['Rank', 'short_owner', 'nfts_owned']], use_container_width=True, hide_index=True)
+    st.dataframe(top_nfts_owned[['Rank', 'short_owner', 'nfts_owned']], use_container_width=False, hide_index=True)
 
     # Top ten equipment/boost combinations by rewards
-    st.subheader("Top Ten Equipment/Boost Combinations by Rewards Won")
+    st.subheader("Top Ten Equipment/Boost by Rewards Won")
     rewards_by_boost = winner_list.merge(
         nft_details[['unique_id', 'equipment', 'boost']],
         left_on='Winner (Row)',
@@ -213,7 +213,7 @@ elif page == "Leaderboard":
     top_boost_rewards['total_rewards'] = top_boost_rewards['total_rewards'].apply(format_rewards)
     top_boost_rewards = top_boost_rewards.reset_index(drop=True).reset_index()
     top_boost_rewards['Rank'] = top_boost_rewards['index'] + 1  # Start numbering at 1
-    st.dataframe(top_boost_rewards[['Rank', 'equipment', 'boost', 'total_rewards']], use_container_width=True, hide_index=True)
+    st.dataframe(top_boost_rewards[['Rank', 'equipment', 'boost', 'total_rewards']], use_container_width=False, hide_index=True)
 
     # Bottom ten owners by rewards
     st.subheader("Bottom Ten Owners by Rewards Won")
@@ -221,11 +221,11 @@ elif page == "Leaderboard":
     bottom_rewards['total_rewards'] = bottom_rewards['total_rewards'].apply(format_rewards)
     bottom_rewards = bottom_rewards.reset_index(drop=True).reset_index()
     bottom_rewards['Rank'] = bottom_rewards['index'] + 1  # Start numbering at 1
-    st.dataframe(bottom_rewards[['Rank', 'short_owner', 'total_rewards']], use_container_width=True, hide_index=True)
+    st.dataframe(bottom_rewards[['Rank', 'short_owner', 'total_rewards']], use_container_width=False, hide_index=True)
 
     # Bottom ten owners by wins
     st.subheader("Bottom Ten Owners by Wins")
     bottom_wins = rewards_by_owner.nsmallest(10, 'total_wins').sort_values(by='total_wins', ascending=False).copy()
     bottom_wins = bottom_wins.reset_index(drop=True).reset_index()
     bottom_wins['Rank'] = bottom_wins['index'] + 1  # Start numbering at 1
-    st.dataframe(bottom_wins[['Rank', 'short_owner', 'total_wins']], use_container_width=True, hide_index=True)
+    st.dataframe(bottom_wins[['Rank', 'short_owner', 'total_wins']], use_container_width=False, hide_index=True)
