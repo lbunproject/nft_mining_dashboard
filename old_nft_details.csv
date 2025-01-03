@@ -150,16 +150,11 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 1,miata,Jackhammer,Shockwave,City Night,130,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHSW1.png,terra14yuj6q5rps3zp9vn7yr7uzlfrrakkkcrhxzsz8
 2,miata,Jackhammer,Shockwave,City Night,130,4/6/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHSW2.png,terra199jlusyxpj7p5s9emw62fedjp7j3frw0nk3h5q
 3,miata,Jackhammer,Shockwave,Jungle Night,130,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHSW3.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
-4,miata,Jackhammer,Shockwave,Jungle Night,130,2/12/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHSW4.png,terra1cef7xf36d97yplkhyuefc7ut4d0e93hx295e8x
-5,miata,Jackhammer,Shockwave,Deep Mine,130,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHSW5.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
+4,miata,Jackhammer,Shockwave,Jungle Night,130,2/12/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHSW4.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 6,miata,Jackhammer,Shockwave,Deep Mine,130,7/8/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHSW6.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
-7,miata,Jackhammer,Shockwave,Lunar Moon,130,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHSW7.png,terra1cef7xf36d97yplkhyuefc7ut4d0e93hx295e8x
+7,miata,Jackhammer,Shockwave,Lunar Moon,130,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHSW7.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 8,miata,Jackhammer,Shockwave,Lunar Moon,130,2/25/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHSW8.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 9,miata,Jackhammer,Rapid Strike,City Night,130,10/26/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHR9.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
-10,miata,Jackhammer,Rapid Strike,City Night,130,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHR10.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
-13,miata,Jackhammer,Rapid Strike,Deep Mine,123,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHR13.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
-14,miata,Jackhammer,Rapid Strike,Deep Mine,123,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHR14.png,terra199jlusyxpj7p5s9emw62fedjp7j3frw0nk3h5q
-15,miata,Jackhammer,Rapid Strike,Lunar Moon,123,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHR15.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 16,miata,Jackhammer,Rapid Strike,Lunar Moon,123,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHR16.png,terra14yuj6q5rps3zp9vn7yr7uzlfrrakkkcrhxzsz8
 17,miata,Jackhammer,Turbocharged,City Night,120,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHT17.png,terra1yplwrktw2u047nv9eupdjghef0t4a7zu4dmntt
 18,miata,Jackhammer,Turbocharged,City Night,120,1/4/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHT18.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
@@ -169,13 +164,12 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 22,miata,Jackhammer,Turbocharged,Deep Mine,120,2/28/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHT22.png,terra1cef7xf36d97yplkhyuefc7ut4d0e93hx295e8x
 23,miata,Jackhammer,Turbocharged,Lunar Moon,120,6/29/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHT23.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 24,miata,Jackhammer,Turbocharged,Lunar Moon,120,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHT24.png,terra199krtqdrxphhrg5r2adle46nyhza73w39k64d0
-25,miata,Jackhammer,Standard,City Night,117,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHST25.png,terra1cef7xf36d97yplkhyuefc7ut4d0e93hx295e8x
+25,miata,Jackhammer,Standard,City Night,117,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHST25.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 26,miata,Jackhammer,Standard,City Night,117,11/13/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHST26.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 27,miata,Jackhammer,Standard,Jungle Night,117,8/6/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHST27.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 28,miata,Jackhammer,Standard,Jungle Night,117,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHST28.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 29,miata,Jackhammer,Standard,Deep Mine,117,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHST29.png,terra19s2vr9ma4pdq2a4xf64xtf4rl2v0r0hmdjxqw9
-31,miata,Jackhammer,Standard,City Night,117,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHST31.png,terra1cef7xf36d97yplkhyuefc7ut4d0e93hx295e8x
-32,miata,Jackhammer,Standard,Lunar Moon,117,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHST32.png,terra199jlusyxpj7p5s9emw62fedjp7j3frw0nk3h5q
+31,miata,Jackhammer,Standard,City Night,117,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/JHST31.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 33,miata,Pick & Shovel,Jedi,City Night,113,2/18/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ33.png,terra199krtqdrxphhrg5r2adle46nyhza73w39k64d0
 34,miata,Pick & Shovel,Jedi,City Night,113,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ34.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 36,miata,Pick & Shovel,Jedi,City Night,113,5/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ36.png,terra154ns0jnajcjvc4wjjrza020gaux2lzd7rwaf45
@@ -184,16 +178,12 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 39,miata,Pick & Shovel,Jedi,City Night,113,9/4/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ39.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 40,miata,Pick & Shovel,Jedi,City Night,113,1/6/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ40.png,terra199krtqdrxphhrg5r2adle46nyhza73w39k64d0
 41,miata,Pick & Shovel,Jedi,City Night,113,8/14/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ41.png,terra10ykaa6ychv2tdw0y0a9exycuz3ncy8w3p58cn6
-42,miata,Pick & Shovel,Jedi,City Night,113,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ42.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 43,miata,Pick & Shovel,Jedi,City Night,113,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ43.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 44,miata,Pick & Shovel,Jedi,City Night,113,11/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ44.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
-45,miata,Pick & Shovel,Jedi,City Night,113,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ45.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 46,miata,Pick & Shovel,Jedi,City Night,113,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ46.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 47,miata,Pick & Shovel,Jedi,City Night,113,1/6/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ47.png,terra1dcn4vem7d27j600qanan6xdnan3n9y9jjtdv0k
 48,miata,Pick & Shovel,Jedi,City Night,113,11/13/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ48.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
-49,miata,Pick & Shovel,Jedi,City Night,113,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ49.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 50,miata,Pick & Shovel,Jedi,City Night,113,3/11/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ50.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
-51,miata,Pick & Shovel,Jedi,City Night,113,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ51.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 52,miata,Pick & Shovel,Jedi,City Night,113,11/13/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ52.png,terra1tg4hauztww3ctrv3fuzph96j0w0dca7de9k00k
 53,miata,Pick & Shovel,Jedi,City Night,113,7/8/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ53.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 54,miata,Pick & Shovel,Jedi,City Night,113,7/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ54.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
@@ -242,7 +232,6 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 98,miata,Pick & Shovel,Jedi,Deep Mine,113,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ98.png,terra1m9t69cj840z742l356n8fcdd2qedkx6mk5jycz
 99,miata,Pick & Shovel,Jedi,Deep Mine,113,1/27/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ99.png,terra1he5d7vstkw6kq9zecaexh9glkc0c6pfzskgqp8
 100,miata,Pick & Shovel,Jedi,Deep Mine,113,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ100.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
-101,miata,Pick & Shovel,Jedi,Deep Mine,113,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ101.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 102,miata,Pick & Shovel,Jedi,Lunar Moon,113,1/31/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ102.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 103,miata,Pick & Shovel,Jedi,Lunar Moon,113,6/29/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ103.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 104,miata,Pick & Shovel,Jedi,Lunar Moon,113,4/19/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ104.png,terra199jlusyxpj7p5s9emw62fedjp7j3frw0nk3h5q
@@ -253,7 +242,6 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 109,miata,Pick & Shovel,Jedi,Lunar Moon,113,4/19/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ109.png,terra199jlusyxpj7p5s9emw62fedjp7j3frw0nk3h5q
 110,miata,Pick & Shovel,Jedi,Lunar Moon,113,2/16/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ110.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 111,miata,Pick & Shovel,Jedi,Lunar Moon,113,7/18/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ111.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
-112,miata,Pick & Shovel,Jedi,Lunar Moon,113,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ112.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 113,miata,Pick & Shovel,Jedi,Lunar Moon,113,7/31/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ113.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 114,miata,Pick & Shovel,Jedi,Lunar Moon,113,1/26/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ114.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 116,miata,Pick & Shovel,Jedi,Lunar Moon,113,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ116.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
@@ -261,7 +249,6 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 118,miata,Pick & Shovel,Jedi,Lunar Moon,113,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ118.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 119,miata,Pick & Shovel,Jedi,Lunar Moon,113,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ119.png,terra1yplwrktw2u047nv9eupdjghef0t4a7zu4dmntt
 121,miata,Pick & Shovel,Jedi,Lunar Moon,113,10/26/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ121.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
-122,miata,Pick & Shovel,Jedi,Lunar Moon,113,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ122.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 123,miata,Pick & Shovel,Jedi,Lunar Moon,113,8/14/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ123.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 124,miata,Pick & Shovel,Jedi,Lunar Moon,113,6/29/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSJ124.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 125,miata,Pick & Shovel,Diamond,City Night,107,7/31/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD125.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
@@ -269,7 +256,6 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 127,miata,Pick & Shovel,Diamond,City Night,107,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD127.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 128,miata,Pick & Shovel,Diamond,City Night,107,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD128.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 129,miata,Pick & Shovel,Diamond,City Night,107,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD129.png,terra199krtqdrxphhrg5r2adle46nyhza73w39k64d0
-130,miata,Pick & Shovel,Diamond,City Night,107,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD130.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 131,miata,Pick & Shovel,Diamond,City Night,107,5/31/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD131.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 132,miata,Pick & Shovel,Diamond,City Night,107,7/8/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD132.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 133,miata,Pick & Shovel,Diamond,City Night,107,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD133.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
@@ -277,13 +263,11 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 135,miata,Pick & Shovel,Diamond,City Night,107,1/30/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD135.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 136,miata,Pick & Shovel,Diamond,City Night,107,11/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD136.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 137,miata,Pick & Shovel,Diamond,City Night,107,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD137.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
-138,miata,Pick & Shovel,Diamond,City Night,107,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD138.png,terra199jlusyxpj7p5s9emw62fedjp7j3frw0nk3h5q
 139,miata,Pick & Shovel,Diamond,City Night,107,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD139.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 140,miata,Pick & Shovel,Diamond,City Night,107,11/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD140.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 141,miata,Pick & Shovel,Diamond,City Night,107,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD141.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 142,miata,Pick & Shovel,Diamond,City Night,107,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD142.png,terra1rmsyw9cn2d4jgpgn6emzxjjjfq4wwkwt042h94
 143,miata,Pick & Shovel,Diamond,City Night,107,6/29/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD143.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
-144,miata,Pick & Shovel,Diamond,City Night,107,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD144.png,terra1zjpgdankx6n9u6hapstscp6mh76ts9ds2t8r0j
 145,miata,Pick & Shovel,Diamond,City Night,107,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD145.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 146,miata,Pick & Shovel,Diamond,City Night,107,1/7/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD146.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 147,miata,Pick & Shovel,Diamond,City Night,107,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD147.png,terra199jlusyxpj7p5s9emw62fedjp7j3frw0nk3h5q
@@ -297,8 +281,6 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 155,miata,Pick & Shovel,Diamond,Jungle Night,107,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD155.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 156,miata,Pick & Shovel,Diamond,Jungle Night,107,7/31/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD156.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 157,miata,Pick & Shovel,Diamond,Jungle Night,107,7/8/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD157.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
-158,miata,Pick & Shovel,Diamond,Jungle Night,107,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD158.png,terra1zjpgdankx6n9u6hapstscp6mh76ts9ds2t8r0j
-160,miata,Pick & Shovel,Diamond,Jungle Night,107,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD160.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 161,miata,Pick & Shovel,Diamond,Jungle Night,107,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD161.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 162,miata,Pick & Shovel,Diamond,Jungle Night,107,1/27/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD162.png,terra1he5d7vstkw6kq9zecaexh9glkc0c6pfzskgqp8
 163,miata,Pick & Shovel,Diamond,Jungle Night,107,7/31/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD163.png,terra1dcn4vem7d27j600qanan6xdnan3n9y9jjtdv0k
@@ -326,7 +308,6 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 190,miata,Pick & Shovel,Diamond,Deep Mine,107,4/19/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD190.png,terra199jlusyxpj7p5s9emw62fedjp7j3frw0nk3h5q
 191,miata,Pick & Shovel,Diamond,Deep Mine,107,1/30/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD191.png,terra19ranlmmmwsqvl47xqene0ekjektcujnvdngfwj
 192,miata,Pick & Shovel,Diamond,Deep Mine,107,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD192.png,terra1lg2a5pesxsk5aaaprpfeg5z9f7qg0pd4wafm2q
-193,miata,Pick & Shovel,Diamond,Deep Mine,107,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD193.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 194,miata,Pick & Shovel,Diamond,Lunar Moon,107,1/30/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD194.png,terra19ranlmmmwsqvl47xqene0ekjektcujnvdngfwj
 195,miata,Pick & Shovel,Diamond,Lunar Moon,107,9/4/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD195.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 196,miata,Pick & Shovel,Diamond,Lunar Moon,107,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD196.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
@@ -346,7 +327,7 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 212,miata,Pick & Shovel,Diamond,Lunar Moon,107,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD212.png,terra199krtqdrxphhrg5r2adle46nyhza73w39k64d0
 213,miata,Pick & Shovel,Diamond,Lunar Moon,107,6/29/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD213.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 214,miata,Pick & Shovel,Diamond,Lunar Moon,107,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD214.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
-216,miata,Pick & Shovel,Diamond,Lunar Moon,107,12/7/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD216.png,terra16kf06auj06hwnv6knynkdl0raqty6xnu7w89ez
+216,miata,Pick & Shovel,Diamond,Lunar Moon,107,12/7/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSD216.png,terra1zjpgdankx6n9u6hapstscp6mh76ts9ds2t8r0j
 217,miata,Pick & Shovel,Gold,City Night,103,6/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG217.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 218,miata,Pick & Shovel,Gold,City Night,103,10/26/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG218.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 220,miata,Pick & Shovel,Gold,City Night,103,6/17/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG220.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
@@ -365,12 +346,10 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 235,miata,Pick & Shovel,Gold,City Night,103,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG235.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 236,miata,Pick & Shovel,Gold,City Night,103,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG236.png,terra14yuj6q5rps3zp9vn7yr7uzlfrrakkkcrhxzsz8
 237,miata,Pick & Shovel,Gold,City Night,103,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG237.png,terra1lg2a5pesxsk5aaaprpfeg5z9f7qg0pd4wafm2q
-238,miata,Pick & Shovel,Gold,City Night,103,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG238.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 239,miata,Pick & Shovel,Gold,City Night,103,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG239.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 240,miata,Pick & Shovel,Gold,Jungle Night,103,2/5/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG240.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 242,miata,Pick & Shovel,Gold,Jungle Night,103,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG242.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 243,miata,Pick & Shovel,Gold,Jungle Night,103,4/30/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG243.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
-245,miata,Pick & Shovel,Gold,Jungle Night,103,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG245.png,terra199jlusyxpj7p5s9emw62fedjp7j3frw0nk3h5q
 246,miata,Pick & Shovel,Gold,Jungle Night,103,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG246.png,terra1qkxutd5xmvhlr3gxdfc3h3q743wf9qmvw77rp3
 247,miata,Pick & Shovel,Gold,Jungle Night,103,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG247.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 248,miata,Pick & Shovel,Gold,Jungle Night,103,1/31/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG248.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
@@ -384,7 +363,6 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 258,miata,Pick & Shovel,Gold,Jungle Night,103,2/14/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG258.png,terra154ns0jnajcjvc4wjjrza020gaux2lzd7rwaf45
 259,miata,Pick & Shovel,Gold,Jungle Night,103,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG259.png,terra1c9xwzxtfs7s8yd4a2xypgv2mdvay62cql02f07
 261,miata,Pick & Shovel,Gold,Jungle Night,103,9/4/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG261.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
-262,miata,Pick & Shovel,Gold,Jungle Night,103,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG262.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 263,miata,Pick & Shovel,Gold,Deep Mine,103,1/26/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG263.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 264,miata,Pick & Shovel,Gold,Deep Mine,103,6/29/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG264.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 265,miata,Pick & Shovel,Gold,Deep Mine,103,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG265.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
@@ -404,7 +382,6 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 281,miata,Pick & Shovel,Gold,Deep Mine,103,7/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG281.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 282,miata,Pick & Shovel,Gold,Deep Mine,103,7/8/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG282.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 283,miata,Pick & Shovel,Gold,Deep Mine,103,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG283.png,terra17vp36eu6ytpr77m3fdjv5xrvtdt5d9yexpe8dw
-284,miata,Pick & Shovel,Gold,Deep Mine,103,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG284.png,terra1zjpgdankx6n9u6hapstscp6mh76ts9ds2t8r0j
 285,miata,Pick & Shovel,Gold,Deep Mine,103,5/22/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG285.png,terra199krtqdrxphhrg5r2adle46nyhza73w39k64d0
 287,miata,Pick & Shovel,Gold,Lunar Moon,103,8/6/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG287.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 288,miata,Pick & Shovel,Gold,Lunar Moon,103,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG288.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
@@ -427,10 +404,8 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 308,miata,Pick & Shovel,Gold,Lunar Moon,103,1/31/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSG308.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 309,miata,Pick & Shovel,Standard,City Night,100,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS309.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 310,miata,Pick & Shovel,Standard,City Night,100,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS310.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
-311,miata,Pick & Shovel,Standard,City Night,100,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS311.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 312,miata,Pick & Shovel,Standard,City Night,100,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS312.png,terra1smg8tks5g68u7umhvlcf8d232uru7wecqgkh8z
 313,miata,Pick & Shovel,Standard,City Night,100,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS313.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
-314,miata,Pick & Shovel,Standard,City Night,100,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS314.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 315,miata,Pick & Shovel,Standard,City Night,100,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS315.png,terra1f6j6jcqjfk3gxg6kfd0v5ht782y625u349kqqz
 316,miata,Pick & Shovel,Standard,City Night,100,8/14/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS316.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 317,miata,Pick & Shovel,Standard,City Night,100,4/10/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS317.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
@@ -441,7 +416,6 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 322,miata,Pick & Shovel,Standard,City Night,100,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS322.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
 323,miata,Pick & Shovel,Standard,City Night,100,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS323.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 324,miata,Pick & Shovel,Standard,City Night,100,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS324.png,terra1q5t3lshfnam6ra70cw44wq9mkrdx3wxksjxmq6
-326,miata,Pick & Shovel,Standard,City Night,100,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS326.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 327,miata,Pick & Shovel,Standard,City Night,100,7/8/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS327.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 328,miata,Pick & Shovel,Standard,City Night,100,7/8/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS328.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 329,miata,Pick & Shovel,Standard,City Night,100,7/8/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS329.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
@@ -470,7 +444,6 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 354,miata,Pick & Shovel,Standard,Jungle Night,100,5/17/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS354.png,terra1dcn4vem7d27j600qanan6xdnan3n9y9jjtdv0k
 355,miata,Pick & Shovel,Standard,Deep Mine,100,6/29/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS355.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 357,miata,Pick & Shovel,Standard,Deep Mine,100,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS357.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
-356,miata,Pick & Shovel,Standard,Deep Mine,100,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS356.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 358,miata,Pick & Shovel,Standard,Deep Mine,100,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS358.png,terra1rmsyw9cn2d4jgpgn6emzxjjjfq4wwkwt042h94
 359,miata,Pick & Shovel,Standard,Deep Mine,100,7/31/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS359.png,terra1ygp5u80w0yk4x0rr86557xjxjwfppjhy4xzauh
 360,miata,Pick & Shovel,Standard,Deep Mine,100,6/24/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS360.png,terra199krtqdrxphhrg5r2adle46nyhza73w39k64d0
@@ -479,7 +452,6 @@ token_id,market,equipment,boost,location,skill,minted,image,owner
 363,miata,Pick & Shovel,Standard,Deep Mine,100,1/31/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS363.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 364,miata,Pick & Shovel,Standard,Deep Mine,100,9/17/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS364.png,terra199jlusyxpj7p5s9emw62fedjp7j3frw0nk3h5q
 365,miata,Pick & Shovel,Standard,Deep Mine,100,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS365.png,terra142manzzlnf2vdas449v3ghyek9u4e2d5edx5ad
-366,miata,Pick & Shovel,Standard,Deep Mind,100,1/1/2025,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS366.png,terra1hzvedzxf3z0kh247emxy792c8x723yuzpqldtw
 367,miata,Pick & Shovel,Standard,Deep Mine,100,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS367.png,terra1yplwrktw2u047nv9eupdjghef0t4a7zu4dmntt
 368,miata,Pick & Shovel,Standard,Deep Mine,100,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS368.png,terra10wn0hguustj8w00uvsq7x8tncuc6ak49zm64sr
 369,miata,Pick & Shovel,Standard,Deep Mine,100,1/1/2024,https://ipfs.miata-ipfs.com/ipfs/QmPKJeMaskd5qb5x8bbCLiWmNxj6ffu3WHJ3M4cKsSQDoc/PSS369.png,terra1jq8awfxp9pwl7wy4r7e8s88wkqlh3n2x3wflz6
