@@ -117,12 +117,30 @@ if page == "Dashboard":
             total_reward=('Reward (BASE)', 'sum')
         ).reset_index()
 
+        # Calculate percentage for each slice
+        total = reward_by_equipment['total_reward'].sum()
+        reward_by_equipment['percent'] = 100 * reward_by_equipment['total_reward'] / total
+
+        # Add a column to determine if the label should be shown
+        reward_by_equipment['show_label'] = reward_by_equipment['percent'] > 5
+
+        # Create the pie chart
         fig_pie = px.pie(
-            reward_by_equipment, 
-            values='total_reward', 
-            names='equipment', 
+            reward_by_equipment,
+            values='total_reward',
+            names='equipment',
             title='Reward Distribution by Equipment',
             color_discrete_sequence=px.colors.sequential.Plasma
+        )
+
+        # Use `texttemplate` to conditionally show labels for slices with percentages > 5%
+        fig_pie.update_traces(
+            textinfo='none',  # Hide all labels initially
+            texttemplate=reward_by_equipment.apply(
+                lambda row: f"{row['percent']:.2f}%" if row['show_label'] else '',
+                axis=1
+            ),
+            hovertemplate='<b>%{label}</b><br>Reward: %{value}<br>Percentage: %{percent}',
         )
     else:
         # Pie chart for reward distribution by boost levels for the selected equipment
@@ -130,26 +148,63 @@ if page == "Dashboard":
             total_reward=('Reward (BASE)', 'sum')
         ).reset_index()
 
+        # Calculate percentage for each slice
+        total = reward_by_boost['total_reward'].sum()
+        reward_by_boost['percent'] = 100 * reward_by_boost['total_reward'] / total
+        
+        # Add a column to determine if the label should be shown
+        reward_by_boost['show_label'] = reward_by_boost['percent'] > 3
+
         fig_pie = px.pie(
-            reward_by_boost, 
-            values='total_reward', 
-            names='boost', 
+            reward_by_boost,
+            values='total_reward',
+            names='boost',
             title=f'Reward Distribution by Boost ({selected_equipment})',
             color_discrete_sequence=px.colors.sequential.Plasma
+        )
+
+        # Use `texttemplate` to conditionally show labels for slices with percentages > 5%
+        fig_pie.update_traces(
+            textinfo='none',  # Hide all labels initially
+            texttemplate=reward_by_boost.apply(
+                lambda row: f"{row['percent']:.2f}%" if row['show_label'] else '',
+                axis=1
+            ),
+            hovertemplate='<b>%{label}</b><br>Reward: %{value}<br>Percentage: %{percent}',
         )
 
     st.plotly_chart(fig_pie, use_container_width=True)
 
     # NFT ownership distribution
     ownership_distribution = filtered_nft_details.groupby('short_owner').size().reset_index(name='nfts_owned')
+
+    # Calculate percentage for each slice
+    total = ownership_distribution['nfts_owned'].sum()
+    ownership_distribution['percent'] = 100 * ownership_distribution['nfts_owned'] / total
+
+    # Add a column to determine if the label should be shown
+    ownership_distribution['show_label'] = ownership_distribution['percent'] > 3
+
     fig_ownership = px.pie(
-        ownership_distribution, 
-        values='nfts_owned', 
-        names='short_owner', 
+        ownership_distribution,
+        values='nfts_owned',
+        names='short_owner',
         title=f'NFT Ownership Distribution ({selected_equipment if selected_equipment != "All" else "All Equipment"})',
         color_discrete_sequence=px.colors.sequential.RdBu
     )
+
+    # Use `texttemplate` to conditionally show labels for slices with percentages > 5%
+    fig_ownership.update_traces(
+        textinfo='none',  # Hide all labels initially
+        texttemplate=ownership_distribution.apply(
+            lambda row: f"{row['percent']:.2f}%" if row['show_label'] else '',
+            axis=1
+        ),
+        hovertemplate='<b>%{label}</b><br>Owned: %{value}<br>Percentage: %{percent}',
+    )
+
     st.plotly_chart(fig_ownership, use_container_width=True)
+
 
 elif page == "Leaderboard":
     st.title("Leaderboard Stats")
